@@ -1,38 +1,35 @@
-# my-project
+> The project was created for educational purposes.
 
-This template should help get you started developing with Vue 3 in Vite.
+Created as part of a study of Vue.js
 
-## Recommended IDE Setup
+# Travel App
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+A Vue 3 (Composition API) learning project that allows you to explore popular tourist destinations
 
-## Recommended Browser Setup
+## Features
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- Dynamic routing: Using vue-router to navigate between countries and specific locations.
 
-## Customize configuration
+- Smart Scroll: Automatic, smooth scrolling to the details of the experience
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Animated transitions: Smooth page transitions using Vue Transition
 
-## Project Setup
+- Responsive layout using Tailwind CSS.
 
-```sh
-npm install
-```
+- Custom background pattern
 
-### Compile and Hot-Reload for Development
+- over effects on cards
 
-```sh
-npm run dev
-```
+## Technologies
 
-### Compile and Minify for Production
+- **Framework:** Vue 3 (Script Setup)
 
-```sh
-npm run build
-```
+- **Build Tool:** Vite
+
+- **Routing:** Vue Router 4
+
+- **Styling:** Tailwind CSS
+
+- **Data Source:** Fetch API (external JSON files)
+
+The website is deployed at <https://travel.kostenko.link/>
